@@ -1,0 +1,11 @@
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.deps.json
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.dll
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ref\ProgrammersBlog.Services.dll
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.pdb
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.AssemblyInfoInputs.cache
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.AssemblyInfo.cs
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.csproj.CoreCompileInputs.cache
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.dll
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ref\ProgrammersBlog.Services.dll
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.pdb
