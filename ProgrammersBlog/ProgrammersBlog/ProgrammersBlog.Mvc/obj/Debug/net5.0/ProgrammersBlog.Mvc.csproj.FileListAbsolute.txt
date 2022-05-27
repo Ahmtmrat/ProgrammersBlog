@@ -38,3 +38,43 @@ C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Programm
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.genruntimeconfig.cache
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.csproj.CopyComplete
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.csproj.AssemblyReference.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\appsettings.Development.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\appsettings.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.exe
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.deps.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.runtimeconfig.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.runtimeconfig.dev.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ref\ProgrammersBlog.Mvc.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.Views.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\bin\Debug\net5.0\ProgrammersBlog.Mvc.Views.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.csproj.AssemblyReference.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.AssemblyInfoInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.AssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.csproj.CoreCompileInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.RazorAssemblyInfo.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.RazorAssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\staticwebassets\ProgrammersBlog.Mvc.StaticWebAssets.Manifest.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\staticwebassets\ProgrammersBlog.Mvc.StaticWebAssets.xml
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\scopedcss\bundle\ProgrammersBlog.Mvc.styles.css
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.TagHelpers.input.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.TagHelpers.output.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.RazorCoreGenerate.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.RazorTargetAssemblyInfo.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.RazorTargetAssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.Views.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ref\ProgrammersBlog.Mvc.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.genruntimeconfig.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Mvc\obj\Debug\net5.0\ProgrammersBlog.Mvc.csproj.CopyComplete

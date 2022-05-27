@@ -13,3 +13,18 @@ C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\Pro
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.pdb
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.deps.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csproj.AssemblyReference.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.AssemblyInfoInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.AssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csproj.CoreCompileInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csproj.CopyComplete
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.pdb

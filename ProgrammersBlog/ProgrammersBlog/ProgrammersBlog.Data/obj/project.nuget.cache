@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDIS0+nzOB8U/HqBbi/0J3GaTtiTJaPBNSabApT9xARfVgbP485lL28weNK6gtKam0e2amIwqAUV8Ngb9OEfYg==",
+  "dgSpecHash": "46M8RAObYQBSzMs2FTEZ8bwNJBZKXykzY0hSRp/aK0OD1wP4bjzYj+l5fhsN5X434dJ8+erigy9ZHOKqo/UlPA==",
   "success": true,
-  "projectFilePath": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Data\\ProgrammersBlog.Data.csproj",
+  "projectFilePath": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Data\\ProgrammersBlog.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yildi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

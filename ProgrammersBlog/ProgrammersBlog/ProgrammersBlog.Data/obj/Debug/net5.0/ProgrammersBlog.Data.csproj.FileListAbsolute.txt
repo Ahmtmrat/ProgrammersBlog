@@ -18,3 +18,23 @@ C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ref\Pro
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.pdb
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.genruntimeconfig.cache
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ref\ProgrammersBlog.Data.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.deps.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.runtimeconfig.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.runtimeconfig.dev.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ref\ProgrammersBlog.Data.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Data.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Entities.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.csproj.AssemblyReference.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.AssemblyInfoInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.AssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.csproj.CoreCompileInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.csproj.CopyComplete
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ref\ProgrammersBlog.Data.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net5.0\ProgrammersBlog.Data.genruntimeconfig.cache

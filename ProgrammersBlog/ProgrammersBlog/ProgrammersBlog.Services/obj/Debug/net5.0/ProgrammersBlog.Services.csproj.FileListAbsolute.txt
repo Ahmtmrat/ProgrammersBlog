@@ -9,3 +9,15 @@ C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\Pro
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.dll
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ref\ProgrammersBlog.Services.dll
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.deps.json
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ref\ProgrammersBlog.Services.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Services.pdb
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.csproj.AssemblyReference.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.AssemblyInfoInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.AssemblyInfo.cs
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.csproj.CoreCompileInputs.cache
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ref\ProgrammersBlog.Services.dll
+C:\ForGitHub\Yeni klasör\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.pdb
