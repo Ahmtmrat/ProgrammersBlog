@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8x/RFeUcGA1Rj/aCOAPhJoLdOtyAu8hgFsmW+R+/YDdTDGwj1wD9EhBhp9dHshg9dM2T5Q52p/0PM278MvgYfQ==",
+  "dgSpecHash": "8CdXjdyUTQ67qdhFuvpogjQUSyCJeNRUcU4JCUWMK0RB/FlTfO8g2HdyTcKi7t7AiC45u6tsiEIbLzLYF6S5Ww==",
   "success": true,
-  "projectFilePath": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Data\\ProgrammersBlog.Data.csproj",
+  "projectFilePath": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Data\\ProgrammersBlog.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildi\\.nuget\\packages\\elmah\\1.2.2\\elmah.1.2.2.nupkg.sha512",
     "C:\\Users\\yildi\\.nuget\\packages\\elmah.corelibrary\\1.2.2\\elmah.corelibrary.1.2.2.nupkg.sha512",

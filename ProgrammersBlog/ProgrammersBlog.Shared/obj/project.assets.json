@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
+      "projectUniqueName": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
       "projectName": "ProgrammersBlog.Shared",
-      "projectPath": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
+      "projectPath": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\ProgrammersBlog.Shared.csproj",
       "packagesPath": "C:\\Users\\yildi\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\obj\\",
+      "outputPath": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
