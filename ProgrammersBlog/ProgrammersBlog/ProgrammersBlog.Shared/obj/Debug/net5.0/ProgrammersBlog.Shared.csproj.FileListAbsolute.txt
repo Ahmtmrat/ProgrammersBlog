@@ -9,3 +9,4 @@ C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\Progr
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\ProgrammersBlog.Shared.dll
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.pdb
 C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\ProgrammersBlog.Shared.dll
+C:\ProgrammersBlog\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.csproj.AssemblyReference.cache
