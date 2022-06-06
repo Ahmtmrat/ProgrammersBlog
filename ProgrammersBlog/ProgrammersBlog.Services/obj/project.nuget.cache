@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x7Kv07lmTKKhT6U6wl9u/bCgzFCwKFVxsv54EYyiz7XLwh2nYQoApnpNjQyOEUzkCgaoXshdAiZJhpySoBkd8Q==",
+  "dgSpecHash": "o9gkqocMymYI3S3EzBlPyD/M68Y8+wppR3o/FqjQm/IxniWrh2HuEIsvTic6ulsnoY3X7aeTmqdFfepfivCbRg==",
   "success": true,
-  "projectFilePath": "C:\\ForGitHub\\Yeni klasör\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Services\\ProgrammersBlog.Services.csproj",
+  "projectFilePath": "C:\\ProgrammersBlog\\ProgrammersBlog\\ProgrammersBlog.Services\\ProgrammersBlog.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yildi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\yildi\\.nuget\\packages\\elmah\\1.2.2\\elmah.1.2.2.nupkg.sha512",
