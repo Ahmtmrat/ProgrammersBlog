@@ -18,7 +18,7 @@ namespace ProgrammersBlog.Entities.Dtos
         [DisplayName("Kategori Açıklaması")]
         [MaxLength(500, ErrorMessage = "{0} {1} Karakterden Büyük  Olmamalıdır.")]
         [MinLength(3, ErrorMessage = "{0} {1} Karakterden Az Olmamalıdır")]
-        public string Description { get; set; }
+        public string Descrition { get; set; }
         [DisplayName("Kategori Özel Not Alanı")]
         [MaxLength(500, ErrorMessage = "{0} {1} Karakterden Büyük  Olmamalıdır.")]
         [MinLength(3, ErrorMessage = "{0} {1} Karakterden Az Olmamalıdır")]

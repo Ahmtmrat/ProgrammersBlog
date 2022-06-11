@@ -1,10 +1,11 @@
-﻿@model ProgrammersBlog.Entities.Dtos.CategoryListDto
+﻿@using ProgrammersBlog.Shared.Utilities.Results.ComplexTypes
+@model ProgrammersBlog.Entities.Dtos.CategoryListDto
 
 @{
     Layout = "_Layout";
     ViewBag.Title = "Kategoriler Index";
 }
-@if (Model.ResultStatus == ProgrammersBlog.Shared.Utilities.Results.ComplexTypes.ResultStatus.Success)
+@if (Model.ResultStatus == ResultStatus.Success)
 {
     <div id="modalPlaceHolder" aria-hidden="true"></div>
     <div class="card mb-4 mt-2">
@@ -65,18 +66,19 @@
         </div>
     </div>
 }
-@if (Model.ResultStatus == ProgrammersBlog.Shared.Utilities.Results.ComplexTypes.ResultStatus.Error)
+@if (Model.ResultStatus == ResultStatus.Error)
 {
     <div class="alert alert-danger mt-3">
         @Model.Message<br />
-        Dashboard Sayfasına geri dönmek için <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="aler-link">tıklayınız</a>
+        Dashboard Sayfasına geri dönmek için <a class="alert-link" asp-area="Admin" asp-controller="Home" asp-action="Index">tıklayınız</a>
     </div>
 
 }
-    @section Scripts
+@section Scripts
 {
-        <script>
+    <script>
             $(document).ready(function () {
+                @*DataTable starts here*@
                 $('#categoriesTable').DataTable({
                     dom:
                         "<'row'<'col-sm-3'l><'col-sm-6 text-center'B><'col-sm-3'f>>" +
@@ -91,7 +93,7 @@
                             },
                             className: 'btn btn-success',
                             action: function (e, dt, node, config) {
-                               
+
                             }
                         },
                         {
@@ -120,11 +122,23 @@
                             "next": "Sonraki",
                             "previous": "Önceki"
                         },
+                        "oAria": {
+                            "sSortAscending": ":artan sütun sıralamasını aktifleştir",
+                            "sSortDescending":":azalan sütun sıralamasını aktifleştir"
+                        },
+                        "select": {
+                            "rows": {
+                                "_": "%d kayıt seçildi",
+                                "0": "",
+                                "1":"1 kayıt seçildi"
+                            }
+                        }
                     }
                 });
                 @* DataTables ends here*@
+                @*Ajax Get/Getting the _CategoryAddPartial as Modeal Form starts from here. *@
                 $(function () {
-                    const url = '@Url.Action("Add","Category")';
+                    const url = '@Url.Action("Add", "Category")';
                     const placeHolderDiv = $('#modalPlaceHolder');
                     $('#btnAdd').click(function () {
                         $.get(url).done(function (data) {
@@ -132,7 +146,54 @@
                             placeHolderDiv.find(".modal").modal('show');
                         });
                     });
+                    @* Ajax Get / Getting the _CategoryAddPartial as Modeal Form ends from here. *@
+                    @* Ajax Post / Posting the FormData as CategoryAddDto starts from here. *@
+                    placeHolderDiv.on('click',
+                        '#btnSave',
+                        function (event) {
+                        event.preventDefault();
+                        const form = $('#form-category-add');
+                        const actionUrl = form.attr('action');
+                        const dataToSend = form.serialize();
+                        $.post(actionUrl, dataToSend).done(function (data) {
+                            alert(data);
+                            const categoryAddAjaxModel = jQuery.parseJSON(data);
+                            alert(categoryAddAjaxModel);
+                            const newFormBody = $('.modal-body', categoryAddAjaxModel.CategoryAddAPartial);
+                            placeHolderDiv.find('.modal-body').replaceWith(newFormBody);
+                            const isValid = newFormBody.find('[name="IsValid"]').val() === 'True';
+                            if (isValid) {
+                                placeHolderDiv.find('.modal').modal('hide');
+                                const newTableRow = `
+                                <tr>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.Id}</td>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.Name}</td>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.Descrition}</td>
+                                  <td>${convertFirstLetterToUpperCase(categoryAddAjaxModel.CategoryDto.Category.IsActive.toString())}</td>
+                                  <td>${convertFirstLetterToUpperCase(categoryAddAjaxModel.CategoryDto.Category.IsDeleted.toString())}</td>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.Note}</td>
+                                  <td>${convertToShortDate(categoryAddAjaxModel.CategoryDto.Category.CreatedDate)}</td>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.CreatedByName}</td>
+                                  <td>${convertToShortDate(categoryAddAjaxModel.CategoryDto.Category.ModifiedDate)}</td>
+                                  <td>${categoryAddAjaxModel.CategoryDto.Category.ModifiedByName}</td>
+                                </tr> `;
+                                const newTableRowObject = $(newTableRow);
+                                newTableRowObject.hide();
+                                $('#categoriesTable').append(newTableRowObject);
+                                newTableRowObject.fadeIn(2500);
+                                toastr.success(`${categoryAddAjaxModel.CategoryDto.Message}`, 'Başarılı İşlem!');
+                            }
+                            else {
+                                let summaryText = "";
+                                $('#validation-summary > ul > li').each(function () {
+                                    let text = $(this).text();
+                                    summaryText = `*${text}\n`;
+                                });
+                                toastr.warning(summaryText);
+                            }
+                        });
+                    });
                 });
             });
-        </script>
-    }
+    </script>
+}
