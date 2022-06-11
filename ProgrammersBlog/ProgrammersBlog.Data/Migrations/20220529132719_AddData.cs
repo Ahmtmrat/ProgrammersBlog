@@ -44,7 +44,7 @@ namespace ProgrammersBlog.Data.Migrations
 
             migrationBuilder.InsertData(
                 table: "Categories",
-                columns: new[] { "Id", "CreatedByName", "CreatedDate", "Descrition", "IsActive", "IsDeleted", "ModifiedByName", "ModifiedDate", "Name", "Note" },
+                columns: new[] { "Id", "CreatedByName", "CreatedDate", "Description", "IsActive", "IsDeleted", "ModifiedByName", "ModifiedDate", "Name", "Note" },
                 values: new object[] { 4, "InitialCreate", new DateTime(2022, 5, 29, 16, 27, 18, 659, DateTimeKind.Local).AddTicks(6205), "JS-React programlama dili ile ilgili en güncel bilgiler", true, false, "InitialCreate", new DateTime(2022, 5, 29, 16, 27, 18, 659, DateTimeKind.Local).AddTicks(6206), "JS-React", "JS-React Blog Kategorisi" });
 
             migrationBuilder.UpdateData(

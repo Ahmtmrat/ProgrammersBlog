@@ -14,7 +14,7 @@ namespace ProgrammersBlog.Data.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(70)", maxLength: 70, nullable: false),
-                    Descrition = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: true),
+                    Description = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: true),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     ModifiedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     IsDeleted = table.Column<bool>(type: "bit", nullable: false),
@@ -153,7 +153,7 @@ namespace ProgrammersBlog.Data.Migrations
 
             migrationBuilder.InsertData(
                 table: "Categories",
-                columns: new[] { "Id", "CreatedByName", "CreatedDate", "Descrition", "IsActive", "IsDeleted", "ModifiedByName", "ModifiedDate", "Name", "Note" },
+                columns: new[] { "Id", "CreatedByName", "CreatedDate", "Description", "IsActive", "IsDeleted", "ModifiedByName", "ModifiedDate", "Name", "Note" },
                 values: new object[,]
                 {
                     { 1, "InitialCreate", new DateTime(2022, 5, 29, 16, 22, 44, 421, DateTimeKind.Local).AddTicks(4916), "C# programlama dili ile ilgili en güncel bilgiler", true, false, "InitialCreate", new DateTime(2022, 5, 29, 16, 22, 44, 421, DateTimeKind.Local).AddTicks(4924), "C#", "C# Blog Kategorisi" },

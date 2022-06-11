@@ -17,7 +17,7 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             builder.Property(c => c.Id).ValueGeneratedOnAdd();
             builder.Property(c => c.Name).IsRequired();
             builder.Property(c => c.Name).HasMaxLength(70);
-            builder.Property(c => c.Descrition).HasMaxLength(500);
+            builder.Property(c => c.Description).HasMaxLength(500);
             builder.Property(c => c.CreatedByName).IsRequired();
             builder.Property(c => c.CreatedByName).HasMaxLength(50);
             builder.Property(c => c.ModifiedByName).IsRequired();
@@ -34,7 +34,7 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             {
                 Id=1,
                 Name="C#",
-                Descrition="C# programlama dili ile ilgili en güncel bilgiler",
+                Description="C# programlama dili ile ilgili en güncel bilgiler",
                 IsActive = true,
                 IsDeleted = false,
                 CreatedByName = "InitialCreate",
@@ -46,7 +46,7 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             {
                 Id = 2,
                 Name = "C++",
-                Descrition = "C++ programlama dili ile ilgili en güncel bilgiler",
+                Description = "C++ programlama dili ile ilgili en güncel bilgiler",
                 IsActive = true,
                 IsDeleted = false,
                 CreatedByName = "InitialCreate",
@@ -58,7 +58,7 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             {
                 Id = 3,
                 Name = "JS",
-                Descrition = "JS programlama dili ile ilgili en güncel bilgiler",
+                Description = "JS programlama dili ile ilgili en güncel bilgiler",
                 IsActive = true,
                 IsDeleted = false,
                 CreatedByName = "InitialCreate",
@@ -70,7 +70,7 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             {
                 Id = 4,
                 Name = "JS-React",
-                Descrition = "JS-React programlama dili ile ilgili en güncel bilgiler",
+                Description = "JS-React programlama dili ile ilgili en güncel bilgiler",
                 IsActive = true,
                 IsDeleted = false,
                 CreatedByName = "InitialCreate",

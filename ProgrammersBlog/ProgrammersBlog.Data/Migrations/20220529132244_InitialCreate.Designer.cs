@@ -168,7 +168,7 @@ namespace ProgrammersBlog.Data.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Descrition")
+                    b.Property<string>("Description")
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
@@ -205,7 +205,7 @@ namespace ProgrammersBlog.Data.Migrations
                             Id = 1,
                             CreatedByName = "InitialCreate",
                             CreatedDate = new DateTime(2022, 5, 29, 16, 22, 44, 421, DateTimeKind.Local).AddTicks(4916),
-                            Descrition = "C# programlama dili ile ilgili en güncel bilgiler",
+                            Description = "C# programlama dili ile ilgili en güncel bilgiler",
                             IsActive = true,
                             IsDeleted = false,
                             ModifiedByName = "InitialCreate",
@@ -218,7 +218,7 @@ namespace ProgrammersBlog.Data.Migrations
                             Id = 2,
                             CreatedByName = "InitialCreate",
                             CreatedDate = new DateTime(2022, 5, 29, 16, 22, 44, 421, DateTimeKind.Local).AddTicks(4966),
-                            Descrition = "C++ programlama dili ile ilgili en güncel bilgiler",
+                            Description = "C++ programlama dili ile ilgili en güncel bilgiler",
                             IsActive = true,
                             IsDeleted = false,
                             ModifiedByName = "InitialCreate",
@@ -231,7 +231,7 @@ namespace ProgrammersBlog.Data.Migrations
                             Id = 3,
                             CreatedByName = "InitialCreate",
                             CreatedDate = new DateTime(2022, 5, 29, 16, 22, 44, 421, DateTimeKind.Local).AddTicks(4971),
-                            Descrition = "JS programlama dili ile ilgili en güncel bilgiler",
+                            Description = "JS programlama dili ile ilgili en güncel bilgiler",
                             IsActive = true,
                             IsDeleted = false,
                             ModifiedByName = "InitialCreate",
