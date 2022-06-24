@@ -29,32 +29,32 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
             builder.Property(c => c.Note).HasMaxLength(500);
             builder.ToTable("Comments");
 
-            builder.HasData(new Comment
-            {
-                Id=1,
-                ArticleId=1,
-                Text= "Lorem Ipsum'un birçok pasaj varyasyonu mevcuttur, ancak çoğu, enjekte edilen mizah veya biraz inandırıcı görünmeyen rastgele kelimelerle bir şekilde değişikliğe uğramıştır. Lorem Ipsum'dan bir pasaj kullanacaksanız, metnin ortasında utanç verici bir şey olmadığından emin olmanız gerekir. İnternetteki tüm Lorem Ipsum oluşturucular, önceden tanımlanmış parçaları gerektiği gibi tekrarlama eğilimindedir ve bu da bunu İnternet'teki ilk gerçek oluşturucu yapar. Makul görünen Lorem Ipsum'u oluşturmak için bir avuç model cümle yapısıyla birleştirilmiş 200'den fazla Latince sözcükten oluşan bir sözlük kullanır. Üretilen Lorem Ipsum bu nedenle her zaman tekrardan, enjekte edilen mizahtan veya karakteristik olmayan kelimelerden vb.",
-                IsActive = true,
-                IsDeleted = false,
-                CreatedByName = "InitialCreate",
-                CreatedDate = DateTime.Now,
-                ModifiedByName = "InitialCreate",
-                ModifiedDate = DateTime.Now,
-                Note = "C# Makale Yorumu"
-            },new Comment
-            {
-                Id = 2,
-                ArticleId = 2,
-                Text = "Lorem Ipsum'un birçok pasaj varyasyonu mevcuttur, ancak çoğu, enjekte edilen mizah veya biraz inandırıcı görünmeyen rastgele kelimelerle bir şekilde değişikliğe uğramıştır. Lorem Ipsum'dan bir pasaj kullanacaksanız, metnin ortasında utanç verici bir şey olmadığından emin olmanız gerekir. İnternetteki tüm Lorem Ipsum oluşturucular, önceden tanımlanmış parçaları gerektiği gibi tekrarlama eğilimindedir ve bu da bunu İnternet'teki ilk gerçek oluşturucu yapar. Makul görünen Lorem Ipsum'u oluşturmak için bir avuç model cümle yapısıyla birleştirilmiş 200'den fazla Latince sözcükten oluşan bir sözlük kullanır. Üretilen Lorem Ipsum bu nedenle her zaman tekrardan, enjekte edilen mizahtan veya karakteristik olmayan kelimelerden vb.",
-                IsActive = true,
-                IsDeleted = false,
-                CreatedByName = "InitialCreate",
-                CreatedDate = DateTime.Now,
-                ModifiedByName = "InitialCreate",
-                ModifiedDate = DateTime.Now,
-                Note = "C++ Makale Yorumu"
-            }
-            );
+            //builder.HasData(new Comment
+            //{
+            //    Id=1,
+            //    ArticleId=1,
+            //    Text= "Lorem Ipsum'un birçok pasaj varyasyonu mevcuttur, ancak çoğu, enjekte edilen mizah veya biraz inandırıcı görünmeyen rastgele kelimelerle bir şekilde değişikliğe uğramıştır. Lorem Ipsum'dan bir pasaj kullanacaksanız, metnin ortasında utanç verici bir şey olmadığından emin olmanız gerekir. İnternetteki tüm Lorem Ipsum oluşturucular, önceden tanımlanmış parçaları gerektiği gibi tekrarlama eğilimindedir ve bu da bunu İnternet'teki ilk gerçek oluşturucu yapar. Makul görünen Lorem Ipsum'u oluşturmak için bir avuç model cümle yapısıyla birleştirilmiş 200'den fazla Latince sözcükten oluşan bir sözlük kullanır. Üretilen Lorem Ipsum bu nedenle her zaman tekrardan, enjekte edilen mizahtan veya karakteristik olmayan kelimelerden vb.",
+            //    IsActive = true,
+            //    IsDeleted = false,
+            //    CreatedByName = "InitialCreate",
+            //    CreatedDate = DateTime.Now,
+            //    ModifiedByName = "InitialCreate",
+            //    ModifiedDate = DateTime.Now,
+            //    Note = "C# Makale Yorumu"
+            //},new Comment
+            //{
+            //    Id = 2,
+            //    ArticleId = 2,
+            //    Text = "Lorem Ipsum'un birçok pasaj varyasyonu mevcuttur, ancak çoğu, enjekte edilen mizah veya biraz inandırıcı görünmeyen rastgele kelimelerle bir şekilde değişikliğe uğramıştır. Lorem Ipsum'dan bir pasaj kullanacaksanız, metnin ortasında utanç verici bir şey olmadığından emin olmanız gerekir. İnternetteki tüm Lorem Ipsum oluşturucular, önceden tanımlanmış parçaları gerektiği gibi tekrarlama eğilimindedir ve bu da bunu İnternet'teki ilk gerçek oluşturucu yapar. Makul görünen Lorem Ipsum'u oluşturmak için bir avuç model cümle yapısıyla birleştirilmiş 200'den fazla Latince sözcükten oluşan bir sözlük kullanır. Üretilen Lorem Ipsum bu nedenle her zaman tekrardan, enjekte edilen mizahtan veya karakteristik olmayan kelimelerden vb.",
+            //    IsActive = true,
+            //    IsDeleted = false,
+            //    CreatedByName = "InitialCreate",
+            //    CreatedDate = DateTime.Now,
+            //    ModifiedByName = "InitialCreate",
+            //    ModifiedDate = DateTime.Now,
+            //    Note = "C++ Makale Yorumu"
+            //}
+            //);
         }
     }
 }

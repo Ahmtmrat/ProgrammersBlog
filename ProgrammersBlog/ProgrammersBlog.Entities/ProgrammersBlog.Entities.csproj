@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Elmah" Version="1.2.2" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="5.0.17" />
   </ItemGroup>
 
   <ItemGroup>
